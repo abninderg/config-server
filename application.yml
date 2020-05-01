@@ -1,9 +1,5 @@
-my:
-  greeting: Hello world from config server
-  list:
-      values: one,two,three,four
+account-details:
+  firstName: abninder
+  sortCode: 123456
+  accountNumber: 987654321
 
-db:
-  connection: connection-url-1234
-  host: 127.0.0.1
-  port: 9900
