@@ -3,3 +3,7 @@ account-details:
   sortCode: 123456
   accountNumber: 987654321
 
+address-details
+  firstLine: 25 fake address
+  postCode: XY45 UTP
+
